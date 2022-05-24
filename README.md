@@ -9,7 +9,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Java],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
