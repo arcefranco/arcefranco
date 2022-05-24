@@ -25,7 +25,7 @@ const aboutMe = {
 ```
 
 
-- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+- 💬 Pregúntame sobre **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
 - 📫 Contáctame en **arcefranco29@gmail.com**
 
