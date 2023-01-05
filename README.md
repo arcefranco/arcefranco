@@ -61,5 +61,5 @@ mis recomendaciones en YouTube y en septiembre de el año pasado decidí anotarm
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
  -->
    <br/>
-   <img style="margin-top:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcefranco" />
+   <img style="margin-top:25px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcefranco" />
 
