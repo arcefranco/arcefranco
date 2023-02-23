@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Tengo 23 años, soy desarrollador web junior y músico.</h3>
+<h3 align="center">Tengo 24 años, soy desarrollador web junior y músico.</h3>
 
 ```javascript
 const aboutMe = {
