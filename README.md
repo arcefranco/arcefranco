@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Tengo 24 años, soy desarrollador web junior y músico.</h3>
+<h3 align="center">Tengo 25 años y soy desarrollador web junior.</h3>
 
 ```javascript
 const aboutMe = {
@@ -30,9 +30,9 @@ const aboutMe = {
 - 📫 Contáctame en **arcefranco29@gmail.com**
 
 - 📄 Desde que tengo memoria que me apasionan las computadoras. En un principio comencé (y sigo hasta el dia de hoy) creando y editando música en ellas. Entré a la 
-carrera de Artes Electronicas y di mis primeros pasos en la programacion usando Processing para hacer pequeñas animaciones. Me empece a interesar en HTML gracias a 
+carrera de Artes Electronicas y di mis primeros pasos en la programacion usando Processing para crear pequeñas animaciones. Me empece a interesar en HTML gracias a 
 mis recomendaciones en YouTube y en septiembre de el año pasado decidí anotarme en el bootcamp de Henry donde di mis primeros pasos como Developer. 
-   Lo que me trae hasta aquí es buscar la solucion a los problemas y el mundo del desarrollo me da la oportunidad de poder evolucionar esas soluciones y hacerlas cada vez mas eficientes.
+   Lo que me trae hasta aquí es buscar la solución a los problemas y el mundo del desarrollo me da la oportunidad de poder evolucionar esas soluciones y hacerlas cada vez mas eficientes.
 
 
 
