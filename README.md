@@ -1,11 +1,8 @@
 
 
 
-<h1 align="center">Hola 👋, Soy Franco Arce</h1>
+<h1 align="center">Hola, Soy Franco Arce</h1>
 
-
-
-<h3 align="center">Tengo 25 años y soy desarrollador web junior.</h3>
 
 ```javascript
 const aboutMe = {
